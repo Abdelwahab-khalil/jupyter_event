@@ -1,0 +1,726 @@
+﻿event_id,event_name,event_date,event_city,event_time,event_cat
+1,One-Day Advanced Training for Microsoft Excel,null,Africa/Casablanca,8:00 AM,Workshop
+2,China (Shenzhen) International Internet & E-commerce Expo,23 - 25 Sep 2020,null,8:30 AM,null
+3,Techpoint Build,27 - 28 Aug 2020,Africa/Casablanca,9:00 AM,Conference
+4,Developing your Emotional Intelligence,null,Africa/Casablanca,10:30 AM,Workshop
+5,Las Vegas Market Show,30 Aug - 03 Sep 2020,null,10:30 AM,null
+6,Connect Nigeria Business Fair,27 - 28 Aug 2020,null,11:30 AM,null
+7,MAGIC LAS VEGAS,30 Sep - 02 Oct 2020,null,11:00 AM,null
+8,"Apparel, Footwear, and Fashion Influence Council",null,Africa/Casablanca,12:00 AM,Conference
+9,Understanding Emotional Intelligence,null,Africa/Casablanca,10:30 AM,Conference
+10,"Marijuana, THC, & CBD: Essential Information for Health Professionals",null,Africa/Casablanca,4:00 PM,Conference
+11,Konya Agriculture Fair,08 - 12 Sep 2020,null,5:30 PM,null
+12,OnArt Fair,28 - 30 Aug 2020,Africa/Casablanca,1:30 PM,Trade Show
+13,Online International Food Expo,15 - 30 Aug 2020,Africa/Casablanca,10:00 AM,Trade Show
+14,"HORECA World Pakistan - Hotels, Restaurants & Cafes Expo",04 - 06 Sep 2020,null,11:30 AM,null
+15,Digital Africa Conference and Exhibition,25 - 27 Aug 2020,Africa/Casablanca,8:00 AM,Trade Show
+16,Global Power & Energy Industry Meetup,null,Africa/Casablanca,8:30 AM,Trade Show
+17,Global Travel & Tourism Industry Meetup,null,Africa/Casablanca,9:00 AM,Trade Show
+18,China (Shenzhen) International Logistics and Supply Chain Fair,23 - 25 Sep 2020,null,10:30 AM,null
+19,Education Innovation Conference,null,null,10:30 AM,null
+20,TiE Women - A Bootcamp for Women Entrepreneurs,null,Africa/Casablanca,11:30 AM,Conference
+21,Online Education Fair - India,null,Africa/Casablanca,11:00 AM,Trade Show
+22,PowerApps Online Training,12 Aug - 05 Sep 2020,null,12:00 AM,Education & Training
+23,World of Women Conference and Lifestyle Expo,28 - 29 Aug 2020,null,9:00 AM,null
+24,Global Architecture & Designing Industry Meetup,null,Africa/Casablanca,10:30 AM,Trade Show
+25,99 Snacks & Bakery Expo,29 - 31 Aug 2020,null,8:00 AM,null
+26,Internet of Things Forum Africa Exhibition,25 - 26 Aug 2020,null,8:30 AM,null
+27,THAIFEX - Anuga Asia,22 - 26 Sep 2020,null,9:00 AM,null
+28,DOMOTEX asia/CHINAFLOOR,31 Aug - 02 Sep 2020,null,10:30 AM,null
+29,Malaysia International Halal Showcase,01 - 04 Sep 2020,null,10:30 AM,null
+30,China International Hosiery Purchasing Expo,26 - 28 Aug 2020,null,11:30 AM,null
+31,Online Education Fair - Russia,null,null,11:00 AM,Trade Show
+32,India International Pet Trade Fair,29 - 30 Aug 2020,null,12:00 AM,null
+33,Los Angeles Ultimate Women's Expo,12 - 13 Sep 2020,null,10:30 AM,null
+34,Esthetique Spa International-Toronto,23 - 24 Aug 2020,null,4:00 PM,null
+35,China International Disposable Paper EXPO,24 - 26 Sep 2020,null,5:30 PM,null
+36,International Signs & Led Exhibition,31 Aug - 03 Sep 2020,null,1:30 PM,null
+37,China (Guangrao) International Rubber Tire & Auto Accessory Exhibition,08 - 10 Sep 2020,null,10:00 AM,null
+38,Antibody Engineering & Therapeutics Europe,25 - 27 Aug 2020,null,11:30 AM,null
+39,Global Beauty & Cosmetics Industry Meetup,null,Africa/Casablanca,8:00 AM,Trade Show
+40,Cyber Security Training,12 Aug - 05 Sep 2020,null,8:30 AM,Education & Training
+41,International Conference on Information System and System Management (ISSM),"Wed, 14  - Fri, 16 Oct 2020",Casablanca,9:00 AM,Agriculture & Forestry
+42,Med-IT One to One,"Thu, 01  - Sat, 03 Oct 2020",Casablanca,10:30 AM,IT & Technology
+43,Africa Health Business Symposium (AHBS),"Fri, 02  - Sun, 04 Oct 2020",Casablanca,10:30 AM,Telecommunication
+44,Cosmetista Expo North & West Africa,"Wed, 14  - Thu, 15 Oct 2020",Marrakesh,11:30 AM,Medical & Pharma
+45,"International Conference on New Technologies, Innovation and Information Systems (CINTISI)","Thu, 01  - Fri, 02 Oct 2020",Marrakesh,11:00 AM,IT & Technology
+46,Francophone Multidisciplinary Conference on Congenital Heart Disease (RFMCC),"Sun, 06  - Mon, 07 Sep 2020",Casablanca,12:00 AM,Medical & Pharma
+47,Morocco International Yarn & Fabric Sourcing Show,"Mon, 05  - Wed, 07 Oct 2020",Marrakesh,8:00 AM,Electric & Electronics
+48,Medinit Expo,"Thu, 12  - Fri, 13 Nov 2020",Marrakesh,8:30 AM,Science & Research
+49,Mathematical Modeling of Complex Systems (M2CS),"Tue, 29  - Wed, 30 Sep 2020",Casablanca,9:00 AM,Music & Sound
+50,WoW Hospitality Trends Summit (WHTS'AFRICA),"Sat, 14  - Sun, 15 Nov 2020",Casablanca,10:30 AM,IT & Technology
+51,International Conference on Multimedia Computing and Systems (ICMCS),"Wed, 14  - Fri, 16 Oct 2020",Casablanca,10:30 AM,Apparel & Clothing
+52,MIS Global Conference,"Sat, 17  - Tue, 20 Oct 2020",Casablanca,11:30 AM,Food & Beverages
+53,International Social and Behavior Change Communication Summit (SBCC),"Fri, 18  - Mon, 21 Sep 2020",Marrakesh,11:00 AM,Science & Research
+54,International Conference on Advanced Communication Technologies and Networking (CommNet),"Mon, 19  - Fri, 23 Oct 2020",Casablanca,12:00 AM,Medical & Pharma
+55,Global Pain Conference (GPC),"Wed, 14  - Fri, 16 Oct 2020",Casablanca,9:00 AM,IT & Technology
+56,SIAB EXPO MAROC,"Thu, 05  - Fri, 06 Nov 2020",Marrakesh,10:30 AM,Science & Research
+57,Biocontrol Africa,"Wed, 14  - Thu, 15 Oct 2020",Marrakesh,8:00 AM,Renewable Energy
+58,ESI International Scientific Forum (ISF),"Fri, 04  - Sun, 06 Sep 2020",Casablanca,8:30 AM,Agriculture & Forestry
+59,North African Coatings Congress (NACC),"Tue, 03  - Thu, 05 Nov 2020",Marrakesh,9:00 AM,Business Services
+60,International Conference on Smart Systems and Data Science (ICSSD),"Mon, 28  - Wed, 30 Sep 2020",Marrakesh,10:30 AM,IT & Technology
+61,New Ag International Conference & Exhibition,"Wed, 23  - Thu, 24 Sep 2020",Marrakesh,10:30 AM,Travel & Tourism
+62,Pan Arab Conference on Diabetes (PACD),"Wed, 04  - Sat, 07 Nov 2020",Marrakesh,11:30 AM,IT & Technology
+63,International Conference on Image and Video Processing (ICIVP),"Thu, 01  - Sat, 03 Oct 2020",Marrakesh,11:00 AM,IT & Technology
+64,African Youth Leadership Summit (AYLS),"Mon, 12  - Tue, 13 Oct 2020",Marrakesh,12:00 AM,Education & Training
+65,Oasis,"Thu, 08  - Sun, 11 Oct 2020",Marrakesh,10:30 AM,Business Services
+66,CTW Morocco,"Mon, 12  - Wed, 14 Oct 2020",Marrakesh,4:00 PM,Travel & Tourism
+67,Tronica Expo,"Fri, 11  - Sun, 13 Sep 2020",Casablanca,5:30 PM,Apparel & Clothing
+68,Devoxx Morocco,"Wed, 28  - Fri, 30 Oct 2020",Casablanca,1:30 PM,IT & Technology
+69,North Africa Renewable Energy Summit (NARES),"Thu, 22  - Fri, 23 Oct 2020",Casablanca,10:00 AM,Science & Research
+70,Annual Meeting of the ID4Africa Movement,"Wed, 09  - Thu, 10 Sep 2020",Marrakesh,11:30 AM,Science & Research
+71,International Conference on Economics and Social Sciences (ICESS),"Wed, 28  - Sat, 31 Oct 2020",Casablanca,8:00 AM,Logistics & Transportation
+72,Conjugate Margins Conference (CMC),"Wed, 21  - Fri, 23 Oct 2020",Casablanca,8:30 AM,Medical & Pharma
+73,International Conference on Intelligent Systems: Theories and Applications (SITA),"Wed, 04  - Sat, 07 Nov 2020",Marrakesh,5:30 PM,IT & Technology
+74,TexTech Morocco International Expo,"Tue, 29  - Wed, 30 Sep 2020",Marrakesh,1:30 PM,Cosmetics
+75,Datacloud Africa Leadership Summit & Awards,"Tue, 20  - Wed, 21 Oct 2020",Casablanca,null,Medical & Pharma
+76,ABTA Travel Convention,"Thu, 08  - Sat, 10 Oct 2020",Marrakesh,11:30 AM,Computer & Gadgets
+77,PAMRO Conference,"Wed, 04  - Sat, 07 Nov 2020",Marrakesh,8:00 AM,Business Services
+78,MATTER,"Thu, 01  - Sat, 03 Oct 2020",Marrakesh,null,Chemicals & Dyes
+79,International Conference on Logistics Operations Management (GOL),"Mon, 12  - Tue, 13 Oct 2020",Marrakesh,9:00 AM,Environment & Waste
+80,EMEC Expo,"Thu, 08  - Sun, 11 Oct 2020",Marrakesh,10:30 AM,Education & Training
+81,Canada Sales Congress,"Fri, 06  - Sun, 08 Nov 2020",Toronto,4:00 PM,Conference
+82,The Canadian Oil & Gas Industry Conference,"Sat, 17 Oct 2020",Vancouver,5:30 PM,Conference
+83,The Property Show,"Mon, 05  - Tue, 06 Oct 2020",Toronto,1:30 PM,Conference
+84,International Tourism & Travel Show (ITTS),"Fri, 06  - Sun, 15 Nov 2020",Montreal,null,Tradeshow
+85,Catch The Fire Conference,"Mon, 21  - Wed, 23 Sep 2020",Toronto,11:30 AM,Tradeshow
+86,Vancouver Fashion Week (VFW),"Mon, 26  - Fri, 30 Oct 2020",Montreal,8:00 AM,Tradeshow
+87,International Congress on Palliative Care,"Mon, 24  - Tue, 25 Aug 2020",Niagara Falls,null,Tradeshow
+88,International Conference on  Food Microbiology and Food Market,"Sat, 19  - Sun, 20 Sep 2020",Toronto,9:00 AM,Conference
+89,Healthcare and Hospital Management Conference,"Mon, 14  - Wed, 16 Sep 2020",Toronto,10:30 AM,Conference
+90,International Conference on Religion & Spirituality in Society,"Sat, 03  - Sun, 04 Oct 2020",Mississauga,10:30 AM,Tradeshow
+91,TRUCK WORLD,"Tue, 13  - Fri, 16 Oct 2020",Toronto,null,Tradeshow
+92,Quebec Retail Trade Show,"Mon, 07  - Tue, 08 Sep 2020",Vancouver,null,Tradeshow
+93,ISA Automation Expo and Conference,"Wed, 30 Sep 2020",Mississauga,5:30 AM,Tradeshow
+94,SIAL Canada,"Mon, 19  - Sun, 25 Oct 2020",Toronto,11:30 AM,Conference
+95,The Franchise Expo,"Sat, 29  - Sun, 30 Aug 2020",Vancouver,11:00 AM,Conference
+96,Vancouver Real Estate Forum,"Wed, 23  - Sat, 26 Sep 2020",Vancouver,12:00 AM,Tradeshow
+97,International Conference on Communication and Media Studies,"Mon, 24  - Tue, 25 Aug 2020",Toronto,10:30 AM,Tradeshow
+98,HR Tech Summit,"Tue, 01 Dec 2020",Toronto,4:00 PM,Tradeshow
+99,Canada's Outdoor Farm Show (COFS),"Thu, 15  - Sat, 17 Oct 2020",Calgary,5:30 PM,Conference
+100,Mode Accessories Show,"Wed, 07  - Thu, 08 Oct 2020",Toronto,1:30 PM,Conference
+101,Big Data Toronto (BDT),"Thu, 01  - Fri, 02 Oct 2020",Mississauga,10:00 AM,Tradeshow
+102,Manitoba Aviation Conference & Career Fair,"Tue, 27  - Thu, 29 Oct 2020",Toronto,11:30 AM,Tradeshow
+103,Cannabis Consumer & Business Expo (Toronto Consumer Hemp Trade Event),"Fri, 20  - Sun, 22 Nov 2020",Vancouver,8:00 AM,Tradeshow
+104,O CannaBiz Conference & Expo,"Sun, 18  - Tue, 20 Oct 2020",Winnipeg,8:30 AM,Tradeshow
+105,International Healthcare and Medical conference (IHCMC),"Thu, 27  - Fri, 28 Aug 2020",Mississauga,9:00 AM,Conference
+106,Toronto Career Fair & Training Expo (Toronto Careers & Training Expo),"Sat, 17  - Sun, 18 Oct 2020",Edmonton,10:30 AM,Tradeshow
+107,GeoConvention (GeoCon),"Mon, 05  - Fri, 09 Oct 2020",Toronto,10:30 AM,Conference
+108,Apparel Textile Sourcing Canada (ATSC),"Fri, 11  - Sun, 13 Sep 2020",Toronto,11:30 AM,Tradeshow
+109,Canada's Bridal Show,"Fri, 06  - Sun, 08 Nov 2020",Red Deer,11:00 AM,Tradeshow
+110,Red Deer Womens Show,"Sat, 17 Oct 2020",Toronto,12:00 AM,Tradeshow
+111,The Royal Agricultural Winter Fair,"Mon, 05  - Tue, 06 Oct 2020",Toronto,10:30 AM,Tradeshow
+112,Creativ Festival,"Fri, 06  - Sun, 15 Nov 2020",Montreal,4:00 PM,Tradeshow
+113,CHFA East,"Mon, 21  - Wed, 23 Sep 2020",Calgary,5:30 PM,Conference
+114,Esthetique Spa International-Toronto (ESI),"Mon, 26  - Fri, 30 Oct 2020",Toronto,1:30 PM,Tradeshow
+115,Baby Show Toronto (TBS),"Mon, 24  - Tue, 25 Aug 2020",Toronto,10:00 AM,Conference
+116,Canadian Greenhouse Conference (CGC),"Sat, 19  - Sun, 20 Sep 2020",Toronto,11:30 AM,Tradeshow
+117,Digital Marketing for Financial Services Summit (DMFS Toronto),"Mon, 14  - Wed, 16 Sep 2020",Mississauga,8:00 AM,Tradeshow
+118,Bank + IT Conference,"Sat, 03  - Sun, 04 Oct 2020",Toronto,8:30 AM,Conference
+119,Global Congress and Expo on Battery and Fuel Cell Technology (Battery-fuelcell),"Tue, 13  - Fri, 16 Oct 2020",Toronto,9:00 AM,Conference
+120,The NigeriaInCanada Property Show (NICPS),"Mon, 07  - Tue, 08 Sep 2020",Montreal,10:30 AM,Conference
+121,Baby Show Toronto (TBS),"Mon, 14  - Wed, 16 Sep 2020",Mississauga,10:30 AM,IT & Technology
+122,Canada's Bridal Show,"Mon, 26  - Fri, 30 Oct 2020",Toronto,11:30 AM,Apparel & Clothing
+123,O CannaBiz Conference & Expo,"Mon, 24  - Tue, 25 Aug 2020",Vancouver,11:00 AM,Food & Beverages
+124,Red Deer Womens Show,"Fri, 20  - Sun, 22 Nov 2020",Winnipeg,12:00 AM,Science & Research
+125,Canadian Greenhouse Conference (CGC),"Sat, 29  - Sun, 30 Aug 2020",Mississauga,10:30 AM,Medical & Pharma
+126,ISA Automation Expo and Conference,"Mon, 07  - Tue, 08 Sep 2020",Edmonton,4:00 PM,IT & Technology
+127,International Healthcare and Medical conference (IHCMC),"Fri, 06  - Sun, 15 Nov 2020",Toronto,5:30 PM,Science & Research
+128,Toronto Career Fair & Training Expo (Toronto Careers & Training Expo),"Sun, 18  - Tue, 20 Oct 2020",Toronto,1:30 PM,Renewable Energy
+129,International Conference on  Food Microbiology and Food Market,"Thu, 15  - Sat, 17 Oct 2020",Red Deer,10:00 AM,Agriculture & Forestry
+130,International Congress on Palliative Care,"Mon, 19  - Sun, 25 Oct 2020",Toronto,11:30 AM,Business Services
+131,Manitoba Aviation Conference & Career Fair,"Mon, 05  - Tue, 06 Oct 2020",Toronto,8:00 AM,IT & Technology
+132,Big Data Toronto (BDT),"Fri, 11  - Sun, 13 Sep 2020",Montreal,8:30 AM,Travel & Tourism
+133,CHFA East,"Sat, 19  - Sun, 20 Sep 2020",Calgary,9:00 AM,IT & Technology
+134,The Franchise Expo,"Sat, 03  - Sun, 04 Oct 2020",Toronto,10:30 AM,IT & Technology
+135,Bank + IT Conference,"Tue, 13  - Fri, 16 Oct 2020",Toronto,10:30 AM,Education & Training
+136,Cannabis Consumer & Business Expo (Toronto Consumer Hemp Trade Event),"Mon, 21  - Wed, 23 Sep 2020",Toronto,11:30 AM,Business Services
+137,Digital Marketing for Financial Services Summit (DMFS Toronto),"Thu, 01  - Fri, 02 Oct 2020",Mississauga,11:00 AM,Travel & Tourism
+138,Vancouver Real Estate Forum,"Wed, 07  - Thu, 08 Oct 2020",Toronto,12:00 AM,Apparel & Clothing
+139,Canada Sales Congress,"Wed, 23  - Sat, 26 Sep 2020",Toronto,10:30 AM,IT & Technology
+140,Global Congress and Expo on Battery and Fuel Cell Technology (Battery-fuelcell),"Sat, 17  - Sun, 18 Oct 2020",Mississauga,4:00 PM,Science & Research
+141,Esthetique Spa International-Toronto (ESI),"Wed, 30 Sep 2020",Toronto,5:30 PM,Science & Research
+142,GeoConvention (GeoCon),"Fri, 06  - Sun, 08 Nov 2020",Vancouver,1:30 PM,Logistics & Transportation
+143,SIAL Canada,"Thu, 27  - Fri, 28 Aug 2020",Winnipeg,10:00 AM,Medical & Pharma
+144,Mode Accessories Show,"Mon, 05  - Fri, 09 Oct 2020",Mississauga,11:30 AM,IT & Technology
+145,The Canadian Oil & Gas Industry Conference,"Mon, 24  - Tue, 25 Aug 2020",Edmonton,8:00 AM,Cosmetics
+146,The Royal Agricultural Winter Fair,"Tue, 01 Dec 2020",Toronto,8:30 AM,Medical & Pharma
+147,Vancouver Fashion Week (VFW),"Tue, 27  - Thu, 29 Oct 2020",Toronto,9:00 AM,IT & Technology
+148,Quebec Retail Trade Show,"Sat, 17 Oct 2020",Red Deer,10:30 AM,Apparel & Clothing
+149,International Conference on Communication and Media Studies,"Mon, 14  - Wed, 16 Sep 2020",Toronto,10:30 AM,Food & Beverages
+150,Canada's Outdoor Farm Show (COFS),"Mon, 26  - Fri, 30 Oct 2020",Toronto,11:30 AM,Science & Research
+151,TRUCK WORLD,"Mon, 24  - Tue, 25 Aug 2020",Montreal,11:00 AM,Medical & Pharma
+152,Apparel Textile Sourcing Canada (ATSC),"Fri, 20  - Sun, 22 Nov 2020",Calgary,12:00 AM,IT & Technology
+153,Catch The Fire Conference,"Sat, 29  - Sun, 30 Aug 2020",Toronto,10:30 AM,Science & Research
+154,The NigeriaInCanada Property Show (NICPS),"Mon, 07  - Tue, 08 Sep 2020",Toronto,4:00 PM,Renewable Energy
+155,International Tourism & Travel Show (ITTS),"Fri, 06  - Sun, 15 Nov 2020",Toronto,5:30 PM,Agriculture & Forestry
+156,HR Tech Summit,"Sun, 18  - Tue, 20 Oct 2020",Mississauga,1:30 PM,Business Services
+157,Creativ Festival,"Thu, 15  - Sat, 17 Oct 2020",Toronto,10:00 AM,IT & Technology
+158,Healthcare and Hospital Management Conference,"Mon, 19  - Sun, 25 Oct 2020",Toronto,11:30 AM,Travel & Tourism
+159,International Conference on Religion & Spirituality in Society,"Mon, 05  - Tue, 06 Oct 2020",Toronto,8:00 AM,IT & Technology
+160,The Property Show,"Fri, 11  - Sun, 13 Sep 2020",Mississauga,8:30 AM,IT & Technology
+,Towards universal health coverage: leaving no one behind,8 April 2020 13:00 - 14:30 GMT+1 (BST),online,10:30 AM,Webinar
+,An urban future: humanitarian preparedness,24 July 2019 14:00 - 15:30 BST,online,10:30 AM,Public event
+,UNGA 2019 breakfast event: financing the end of extreme poverty,25 September 2019 08:00 - 09:30 EDT,online,11:30 AM,Side event
+,Financing the future of the Belt and Road in Africa,20 September 2019 16:00 - 17:30 GMT+1 (BST),online,11:00 AM,Public event
+,Helping the Least Developed Countries to Trade,12-Nov-97,online,12:00 AM,Public event
+,Booming Africa: young women and new digital societies,26 November 2019 14:00 - 15:30 GMT,online,10:30 AM,null
+,Universal basic income and universal basic services: what have we learned and what’s next?,13 February 2020 12:00 - 13:30 GMT,online,4:00 PM,Public event
+,Poverty monitoring in the context of Covid-19,15 June 2020 12:00 - 13:15 GMT+1 (BST),online,5:30 PM,Webinar
+,Twitter chat: the risks and rewards for women in humanitarian aid,19 August 2019 14:00 - 15:30 GMT+1,online,1:30 PM,Webinar
+,Moving and learning: rethinking education and skills for global migration,15 July 2019 17:00 - 18:30 EDT,online,10:00 AM,Twitter chat
+,Lightning talk: Adaptation without borders – responding to a global challenge,24 September 2019 17:15 - 17:45 EDT,online,11:30 AM,Side event
+,The digital safety net: citizens and technology in the age of Covid-19,9 April 2020 10:00 - 11:30 GMT+1 (BST),online,8:00 AM,Side event
+,Adaptive leadership in the Covid-19 response: navigating crisis and change,30 April 2020 16:00 - 17:30 GMT+1 (BST),online,8:30 AM,Webinar
+,Africa beyond Covid-19,16 June 2020 14:00 - 15:30 GMT+1 (BST),online,9:00 AM,Webinar
+,Making girls count: using data to ensure no girl is left behind,17 April 2020 14:00 - 15:30 GMT+1 (BST),online,10:30 AM,Webinar
+,Challenging the humanitarian status quo: a gender equality revolution,5 December 2019 18:30 - 19:30 GMT,online,10:30 AM,Webinar
+,UNGA 2019: Building resilience in the Sahel,25 September 2019 08:00 - 12:00 EDT,online,11:30 AM,Public event
+,ODI Bites: inclusive leadership responses for Covid-19,30 July 2020 16:00 - 16:15 GMT+1 (BST),online,11:00 AM,Side event
+,What next for UK international development?,7 July 2020 13:00 - 14:15 GMT+1 (BST),online,12:00 AM,Event series
+,Coronavirus and local peacebuilding efforts in North Africa,6 August 2020 14:30 - 16:00 GMT +1 (BST),online,10:30 AM,Webinar
+,"Women’s empowerment, gender equality and social protection: where next?",16 September 2019 11:30 - 13:00 GMT+1 (BST),online,4:00 PM,Public event
+,Making aid work for people in crises,30 March 2020 15:30 - 17:00 GMT+1 (BST),online,5:30 PM,Public event
+,Managing climate risks: adaptation without borders,11 September 2019 16:00 - 17:30 GMT+1 (BST),online,1:30 PM,Webinar
+,Armed groups responses to the Covid-19 crisis,17 June 2020 16:00 - 17:00 GMT+1 (BST),online,10:00 AM,Public event
+,"Practical Policy, Practical Politics, or Both, or Neither?",21-Jan-98,online,11:30 AM,Webinar
+,Moving away from aid: lessons from country experiences,11 December 2019 14:00 - 15:30 GMT,online,8:00 AM,Public event
+,Accelerating economic transformation in Africa,12 September 2019 13:00 - 14:30 GMT+1 (BST),online,8:30 AM,Webinar
+,Increasing UK investment in Africa,21 January 2020 14:00 - 15:30 GMT,online,9:00 AM,Public event
+,"Global crises, local action: a humanitarian reset in response to Covid-19?",3 June 2020 10:00 - 11:30 GMT+1 (BST),online,10:30 AM,Public event
+,Strengthening the voice and agency of disadvantaged adolescents,20 November 2019 12:00 - 13:30 GMT,online,10:30 AM,Webinar
+,Growth from below: tackling poverty from the bottom up,15 July 2019 09:00 - 10:30 EDT,online,11:30 AM,Public event
+,Financing livelihoods and inclusion in forced displacement contexts,16 December 2019 17:15 - 18:00 GMT + 1,online,11:00 AM,Side event
+,Research during Covid-19: learning from practice,14 July 2020 14:00 - 15:30 GMT+1 (BST),online,12:00 AM,Public event
+,Targeting Covid-19 relief payments in Bangladesh,7 May 2020 14:30 - 16:00 GMT+1 (BST),online,10:30 AM,Webinar
+,Global consultation on youth and digital technologies in sub-Saharan Africa,14 - 15 July 2020,online,4:00 PM,Webinar
+,PFI conference 2020: public financial management for better public services,26 - 27 February 2020,online,5:30 PM,Public event
+,ODI Bites: Africa beyond Covid-19,16 July 2020 16:00 - 16:15,online,1:30 PM,Conference
+,Tackling gender norms through media,10 June 2019 14:00 - 15:30 BST,online,10:00 AM,Event series
+,Lessons learned? Responding to Ebola in the DRC,18 March 2020 14:00 - 15:30 GMT,online,11:30 AM,Webinar
+,Merging international NGOs: would less be more?,11 June 2019 09:00 - 10:30 BST,online,8:00 AM,Webinar
+,ODI Bites: the impacts of Covid-19 on achieving the SDGs,2 June 2020 16:00 - 16:15 GMT+1 (BST),online,11:30 AM,Public event
+,The future of finance and banking systems in Africa beyond Covid-19,9 June 2020 14:00 - 15:30 GMT+1 (BST),online,8:00 AM,Event series
+,India’s fiscal response to Covid-19,21 May 2020 14:00 - 15:00 GMT+1 (BST),online,8:30 AM,Webinar
+,Adolescent refugee challenges under Covid-19,22 June 2020 14:00 - 15:00 GMT+1 (BST),online,9:00 AM,Webinar
+,General Election hustings: women’s rights and sustainable development,18 November 2019 13:30 - 15:00 GMT,online,10:30 AM,Webinar
+,Breaking harmful gender norms in health practices and systems,4 December 2019 12:00 - 14:00 GMT,online,10:30 AM,Public event
+,Manifest 2020 Virtual Convention,null,online,11:30 AM,Online Events
+,Caitlin Moran: More Than A Woman LIVE!,"Thu, 3 September 2020",online,11:00 AM,Online Events
+,The Art of Public Speaking: Increase Your Confidence and Build Your Skills,"Wed, 26 August 2020",online,12:00 AM,Online Events
+,Diamond Bound 6.0 Livestream,null,online,10:30 AM,Online Events
+,ProductCon Online: The Product Management Conference,"Thu, September 10, 2020",online,4:00 PM,Online Events
+,A FEMINIST'S GUIDE TO BOTANY: Online Botanical Painting Session,null,online,5:30 PM,Online Events
+,[Webinar]Azure Administrator Associate (AZ-104) Free Training,null,online,1:30 PM,Online Events
+,GitLab Commit Virtual,null,online,10:00 AM,Online Events
+,Baking with Our Buds - Open House Online!,null,online,11:30 AM,Online Events
+,Seeing The Racial Water: A Virtual Half Day With Dr. Robin DiAngelo  Sept12,"Sat, September 12, 2020",online,8:00 AM,Online Events
+,2020 National Police K9 Day - Fallen K9 Memorial Run,"Tue, September 1, 2020",online,8:30 AM,Online Events
+,Free Webinar on Resilience Practitioner Training,"Tue, 13 October 2020",online,9:00 AM,Online Events
+,The Black Is Tech Virtual Conference 2020,"Thu, Sep 24, 2020, 5:00 PM –",online,10:30 AM,Online Events
+,"Flavour, with Yotam Ottolenghi and Ixta Belfrage","Tue, 1 Sep 2020, 19:00 WEST",online,10:30 AM,Online Events
+,Happy Inside with Michelle Ogundehin,"Thu, 17 September 2020",online,11:30 AM,Online Events
+,Groomers Unlocked International,"Thu, Sep 17, 2020, 7:00 PM –",online,11:00 AM,Online Events
+,Story Editing: How to Assess and Fix Your First Draft,"Wed, Sep 9, 2020, 8:00 PM WEST",online,12:00 AM,Online Events
+,House Plant Rescue with Matt Stata,"Sat, August 29, 2020",online,10:30 AM,Online Events
+,Duocon 2020,"Sat, September 26, 2020",online,4:00 PM,Online Events
+,Facial Aesthetic Conference and Exhibition,17 - 18 Oct 2020,"QEII Centre, London, UK",11:00 AM,Medical & Pharma
+,World Conference on FoodandBeverages,24 - 25 Aug 2020,null,12:00 AM,Agriculture & Forestry
+,The London Print Design Fair,21 - 22 Oct 2020,"Business Design Centre, London, UK",10:30 AM,Apparel & Clothing
+,Melplash Agriculture Show,null,null,4:00 PM,Agriculture & Forestry
+,"International Conference on Intelligent Energy Management, Electronics, Electric & Thermal Power, Robotics and Automation",01 - 03 Oct 2020,null,5:30 PM,Industrial Engineering
+,AI in Finance Summit London,17 - 18 Sep 2020,"etc.venues 155 Bishopsgate, London, UK",1:30 PM,Banking & Finance
+,World Travel Market London,02 - 04 Nov 2020,"ExCeL London, London, UK",10:00 AM,Travel & Tourism
+,Health And Safety Events,22 - 23 Sep 2020,null,11:30 AM,Medical & Pharma
+,The AI Summit London,02 - 03 Sep 2020,"London, UK",8:00 AM,Business Services
+,"Real Estate Investment, Development and Strategy Training Course",16 - 18 Sep 2020,"London, UK",8:30 AM,Building & Construction
+,Augmented Reality & Virtual Reality World Summit,02 - 03 Sep 2020,null,9:00 AM,IT & Technology
+,5G World,01 - 03 Sep 2020,"ExCeL London, London, UK",10:30 AM,Telecommunication
+,Edinburgh International Book Festival,15 - 31 Aug 2020,null,10:30 AM,Education & Training
+,Salon International,10 - 12 Oct 2020,"ExCeL London, London, UK",11:30 AM,Fashion & Beauty
+,"Chester Food, Drink and Lifestyle Festival",29 - 31 Aug 2020,"Chester Racecourse, Chester, UK",11:00 AM,Food & Beverages
+,Carole Nash International Classic Motorcycle Show,10 - 11 Oct 2020,"Stafford Showground Ltd, Stafford,  UK",12:00 AM,Auto & Automotive
+,Football Innovation Summit,02 - 03 Sep 2020,"ILEC Conference Centre, London, UK",10:30 AM,"Wellness, Health & Fitness"
+,UK Infrastructure Show,null,null,4:00 PM,Building & Construction
+,Aviation Festival Europe,23 - 25 Sep 2020,"ExCeL London, London, UK",5:30 PM,Logistics & Transportation
+,Olympia Beauty,04 - 05 Oct 2020,"Olympia London, London, UK",1:30 PM,Fashion & Beauty
+,London Real Estate Forum,09 - 10 Sep 2020,"Barbican Centre, London, UK",10:00 AM,Building & Construction
+,"Corporate Credit Analysis: Forecasting, Formulation and Analysis",07 - 11 Sep 2020,null,11:30 AM,Education & Training
+,Scottish Renewables Conference,31 Aug - 01 Sep 2020,"Sheraton Grand Hotel & Spa Edinburgh, Edinburgh, UK",8:00 AM,Power & Energy
+,Cloud and DevOps World Summit,02 - 03 Sep 2020,null,11:30 AM,Business Services
+,Annual Fraud & Financial Crime Europe,01 - 02 Sep 2020,null,8:00 AM,Education & Training
+,Housing Conference & Exhibition,02 - 04 Sep 2020,"Manchester Central Convention Complex, Manchester, UK",8:30 AM,Building & Construction
+,"SPACE International Conference on Sustainable Architecture, Planning and Urban Design",25 - 26 Sep 2020,"Docklands Academy, London, London, UK",9:00 AM,Building & Construction
+,The London Design Festival,12 - 20 Sep 2020,"London, UK",10:30 AM,Building & Construction
+,The Handmade Festival with Kirstie Allsopp,11 - 13 Sep 2020,"Battersea Park, London, UK",10:30 AM,Arts & Crafts
+,Mastering Management and Leadership Skills,31 Aug - 11 Sep 2020,null,11:30 AM,Education & Training
+,Scotland Trade Fair,20 - 21 Sep 2020,"Scottish Event Campus, Glasgow, UK",11:00 AM,Arts & Crafts
+,National Construction Expo,null,null,12:00 AM,Building & Construction
+,Manchester Anime & Gaming Con,29 - 30 Aug 2020,"Sugden Sports Centre, Manchester, UK",10:30 AM,Entertainment & Media
+,International Jewellery London,13 - 15 Sep 2020,"Alexandra Palace, London, UK",4:00 PM,Arts & Crafts
+,The Manchester Cleaning Show,14 - 15 Oct 2020,"EventCity, Manchester, UK",5:30 PM,Environment & Waste
+,UK Investor Show,null,"QEII Centre, London, UK",1:30 PM,Banking & Finance
+,Professional Beauty London,11 - 12 Oct 2020,"ExCeL London, London, UK",10:00 AM,Fashion & Beauty
+,Social Media Marketing Festival,01 - 03 Sep 2020,null,11:30 AM,Business Services
+,World Waste to Energy and Resources Summit,06 - 07 Oct 2020,"The Tower Hotel, London, UK",8:00 AM,Environment & Waste
+,London Technology Week,01 - 11 Sep 2020,"London, UK",8:30 AM,Business Services
+,MEDICA,16 - 19 Nov 2020,"Düsseldorf, Germany",9:00 AM,Medical & Pharma
+,International Exhibition for Metal Working,15 - 19 Sep 2020,null,10:30 AM,Industrial Engineering
+,International Symposium Recent Advances in Neonatal Medicine,03 - 05 Oct 2020,null,10:30 AM,Medical & Pharma
+,Natural & Organic Cosmetics Conference,29 - 30 Sep 2020,"ELLINGTON HOTEL BERLIN, Berlin, Germany",11:30 AM,Fashion & Beauty
+,SHK ESSEN,01 - 04 Sep 2020,null,11:00 AM,Power & Energy
+,Green Auto Summit,19 - 20 Oct 2020,null,12:00 AM,Auto & Automotive
+,ALUMINIUM,06 - 08 Oct 2020,"Messe Dusseldorf, Düsseldorf, Germany",10:30 AM,Building & Construction
+,CARAVAN SALON Dusseldorf,04 - 13 Sep 2020,"Messe Dusseldorf, Düsseldorf, Germany",11:00 AM,Auto & Automotive
+,IFA Berlin,03 - 05 Sep 2020,"Messe Berlin, Berlin, Germany",12:00 AM,Electric & Electronics
+,ILM International Leather Goods Fair,05 - 07 Sep 2020,"Messe Offenbach GmbH, Offenbach,  Germany",10:30 AM,Apparel & Clothing
+,Digital Innovators Summit,14 - 16 Sep 2020,"German Telekom AG Representative Office, Berlin, Germany",4:00 PM,Business Services
+,ENERGY EFFICIENCY FAIR,09 - 10 Sep 2020,"IHK Frankfurt am Main, Frankfurt, Germany",5:30 PM,Power & Energy
+,Supreme Women & Men - Munich,12 - 15 Sep 2020,"MTC world of fashion, Munich, Germany",1:30 PM,Apparel & Clothing
+,MODA MADE IN ITALY,04 - 06 Oct 2020,"MOC, Munich, Germany",10:00 AM,Apparel & Clothing
+,International Trade Fair For Property and Investment,05 - 07 Oct 2020,"Exhibition Munich, Munich, Germany",11:30 AM,Building & Construction
+,International Conference Automotive Wire Harness and Electronic Distribution System,30 Sep - 01 Oct 2020,"Forum am Schlosspark, Ludwigsburg,  Germany",8:00 AM,Auto & Automotive
+,EuroTier,17 - 20 Nov 2020,"EuroTier, Hanover, Germany",8:30 AM,Agriculture & Forestry
+,Conference on Sustainable Development of Energy Water and Environment Systems,01 - 05 Sep 2020,"Cologne University of Applied Sciences, Cologne, Germany",9:00 AM,Environment & Waste
+,Glasstec Trade Fair,20 - 23 Oct 2020,"Messe Dusseldorf, Düsseldorf, Germany",10:30 AM,Building & Construction
+,Gamescom,27 - 30 Aug 2020,null,10:30 AM,"Baby, Kids & Maternity"
+,Midora Leipzig,05 - 07 Sep 2020,"LMI - Leipziger Messe International GmbH, Leipzig, Germany",11:30 AM,Arts & Crafts
+,Worlds Trade Fair For Water Sewage Waste And Raw Materials Management,07 - 11 Sep 2020,null,11:00 AM,Environment & Waste
+,Update Hematology / Oncology Conference,28 - 29 Aug 2020,"Empire Riverside Hotel Hamburg, Hamburg, Germany",12:00 AM,Medical & Pharma
+,World Intelligent Farming Summit,03 - 04 Sep 2020,"Crowne Plaza Berlin - Potsdamer Platz, Berlin, Germany",10:30 AM,Agriculture & Forestry
+,Plastics Recycling World Expo,07 - 08 Oct 2020,"MESSE ESSEN GmbH, Essen, Germany",4:00 PM,Environment & Waste
+,Wire Dusseldorf,07 - 11 Dec 2020,"Messe Dusseldorf, Düsseldorf, Germany",5:30 PM,Electric & Electronics
+,Security Essen,22 - 25 Sep 2020,"MESSE ESSEN GmbH, Essen, Germany",1:30 PM,Industrial Engineering
+,Gallery SHOES,30 Aug - 01 Sep 2020,"Areal Bohler, Düsseldorf, Germany",10:00 AM,Apparel & Clothing
+,Munich Fabric Start,01 - 03 Sep 2020,"MOC, Munich, Germany",11:30 AM,Apparel & Clothing
+,In Fashion Munich,13 - 14 Sep 2020,"Praterinsel Raum Für Events, Munich, Germany",8:00 AM,Apparel & Clothing
+,Connecticum Job Fair,13 - 15 Oct 2020,"Arena Berlin, Berlin, Germany",11:30 AM,Education & Training
+,Infrastructure Investor Global Summit,12 - 15 Oct 2020,null,8:00 AM,Education & Training
+,Electronica Germany,10 - 13 Nov 2020,"Messe München, Munich, Germany",8:30 AM,Electric & Electronics
+,TourNatur,04 - 06 Sep 2020,"Messe Dusseldorf, Düsseldorf, Germany",9:00 AM,Travel & Tourism
+,IAA Commercial Vehicles,24 - 30 Sep 2020,"Hanover, Germany",10:30 AM,Logistics & Transportation
+,Regensburg Travel Exchange,23 - 24 Oct 2020,null,10:30 AM,Travel & Tourism
+,Touristik Welt,11 - 13 Sep 2020,"Mainz, Germany",11:30 AM,Travel & Tourism
+,Micromobility Expo,27 - 29 Aug 2020,"Deutsche Messe AG, Hanover, Germany",11:00 AM,Auto & Automotive
+,The Munich Show,30 Oct - 01 Nov 2020,"Munich Trade Fair Center, Munich, Germany",12:00 AM,Arts & Crafts
+,International Trade Fair for Laboratory Technology,19 - 22 Oct 2020,"Exhibition Munich, Munich, Germany",10:30 AM,Science & Research
+,Solar & Storage Live,02 - 04 Dec 2020,"NEC, Birmingham, UK",4:00 PM,Power & Energy
+,Grand Designs Live,07 - 11 Oct 2020,"NEC, Birmingham, UK",5:30 PM,Home & Office
+,Health And Safety Events,22 - 23 Sep 2020,null,1:30 PM,Medical & Pharma
+,Schools & Academies Show,18 - 19 Nov 2020,"NEC, Birmingham, UK",10:00 AM,Education & Training
+,The Dive Shows,null,"NEC, Birmingham, UK",11:30 AM,Travel & Tourism
+,Processing and Packing Machinery Event,29 Sep - 01 Oct 2020,"NEC, Birmingham, UK",8:00 AM,Packing & Packaging
+,EngineerJobs Live,null,"Birmingham, UK",8:30 AM,Education & Training
+,Cake International,06 - 08 Nov 2020,"NEC, Birmingham, UK",9:00 AM,Food & Beverages
+,World Biogas Summit,07 - 08 Oct 2020,"NEC, Birmingham, UK",10:30 AM,Environment & Waste
+,Waste Water Expo,16 - 17 Sep 2020,null,10:30 AM,Environment & Waste
+,The Pupil Premium and Ofsted - Ensuring Successful Outcomes,null,null,11:30 AM,Education & Training
+,BodyPower Experience,30 Oct - 01 Nov 2020,"NEC, Birmingham, UK",11:00 AM,Medical & Pharma
+,Advanced Engineering,04 - 05 Nov 2020,"Birmingham, UK",12:00 AM,Auto & Automotive
+,The Health & Safety Event,22 - 23 Sep 2020,"NEC, Birmingham, UK",10:30 AM,"Wellness, Health & Fitness"
+,Physiotherapy UK,13 - 14 Nov 2020,null,8:30 AM,Medical & Pharma
+,NACFB Commercial Finance Expo,null,"NEC, Birmingham, UK",9:00 AM,Banking & Finance
+,Sign & Digital UK,02 - 04 Mar 2021,"NEC, Birmingham, UK",10:30 AM,Packing & Packaging
+,Pharmacy Show,18 - 19 Oct 2020,"NEC, Birmingham, UK",10:30 AM,Medical & Pharma
+,Crafts for Christmas Birmingham,05 - 08 Nov 2020,null,11:30 AM,Arts & Crafts
+,Multimodal,04 - 06 Nov 2020,"NEC, Birmingham, UK",11:00 AM,Logistics & Transportation
+,International Conference on Biomagnetism,30 Aug - 03 Sep 2020,null,12:00 AM,Medical & Pharma
+,British Equine Veterinary Association Congress,09 - 12 Sep 2020,null,10:30 AM,Animals & Pets
+,Recycling & Waste Management Exhibition,03 - 04 Nov 2020,"NEC, Birmingham, UK",4:00 PM,Environment & Waste
+,Toy Fair,null,"NEC, Birmingham, UK",5:30 PM,Arts & Crafts
+,Wolverhampton Jobs Fair,null,"Wolverhampton,  UK",1:30 PM,Education & Training
+,Best Practice Conference,14 - 15 Oct 2020,"NEC, Birmingham, UK",10:00 AM,Education & Training
+,Optrafair,19 - 21 Sep 2020,null,11:30 AM,Business Services
+,National Pet Show Birmingham,31 Oct - 01 Nov 2020,"NEC, Birmingham, UK",8:00 AM,Animals & Pets
+,Recruitment Agency Expo Birmingham,07 - 08 Oct 2020,"NEC, Birmingham, UK",11:30 AM,Education & Training
+,Motorcycle Live,21 - 29 Nov 2020,"NEC, Birmingham, UK",8:00 AM,Auto & Automotive
+,UK Infrastructure Show,null,null,8:30 AM,Building & Construction
+,Canada Live Birmingham,10 - 11 Oct 2020,"The National Motorcycle Museum, Solihull,  UK",9:00 AM,Education & Training
+,Conservative Party Conference & Exhibition,04 - 07 Oct 2020,null,10:30 AM,Business Services
+,Energy,06 - 08 Oct 2020,"NEC, Birmingham, UK",10:30 AM,Industrial Engineering
+,Smart Home for Assisted Living,09 - 10 Nov 2020,null,11:30 AM,IT & Technology
+,The Security Event,22 - 23 Sep 2020,null,11:00 AM,Business Services
+,Congress of the International Society for Burn Injuries,23 - 27 Aug 2020,null,12:00 AM,Medical & Pharma
+,Manufacturing Management Show,28 - 30 Sep 2020,null,10:30 AM,Business Services
+,Lab Innovations,04 - 05 Nov 2020,"Birmingham, UK",4:00 PM,Industrial Engineering
+,eDX - eDelivery Expo,02 - 03 Sep 2020,null,5:30 PM,IT & Technology
+,Paper Craft & Stamping Show,null,"The National Motorcycle Museum, Solihull,  UK",1:30 PM,Arts & Crafts
+,Bucks County Show,null,"Weedon,  UK",10:00 AM,Agriculture & Forestry
+,Classic & Retro Show,null,"Himley Hall, Dudley,  UK",11:30 AM,Auto & Automotive
+,Much Marcle Model Show,05 - 06 Sep 2020,null,8:00 AM,Logistics & Transportation
+,Open Day Summit,null,null,8:30 AM,Education & Training
+,The fantastic Nantwich Food Festival,04 - 06 Sep 2020,"Nantwich,  UK",9:00 AM,Food & Beverages
+,Stafford Dolls House Fair,null,"Stafford Showground Ltd, Stafford,  UK",10:30 AM,Arts & Crafts
+,Record Fair Bedford,null,null,10:30 AM,Electric & Electronics
+,Nutrition Futures,08 - 09 Sep 2020,null,11:30 AM,"Wellness, Health & Fitness"
+,European Conference on Knowledge Management,03 - 04 Sep 2020,"Coventry University,                         Coventry, UK",11:00 AM,Business Services
+,Cirencester Toy Fair,null,"The Bingham Hall, Cirencester,  UK",12:00 AM,"Baby, Kids & Maternity"
+,The Stoke on Trent Luxury Wedding Show,null,null,8:30 AM,Apparel & Clothing
+,Healthcare Strategy Forum,08 - 09 Sep 2020,null,9:00 AM,Medical & Pharma
+,Townsend Toy & Train Fairs,null,null,10:30 AM,"Baby, Kids & Maternity"
+,Salon Prive,03 - 06 Sep 2020,null,10:30 AM,Auto & Automotive
+,Lower Limb Conference,null,null,11:30 AM,Medical & Pharma
+,National Bat Conference,04 - 06 Sep 2020,null,11:00 AM,Business Services
+,Twinwood Festival,28 - 31 Aug 2020,"Twinwood Arena, Bedford,  UK",12:00 AM,Entertainment & Media
+,Toy Fair Rugby,null,null,10:30 AM,"Baby, Kids & Maternity"
+,Low Carbon Vehicle Event,09 - 10 Sep 2020,null,4:00 PM,Auto & Automotive
+,eTail Connect UK,09 - 10 Sep 2020,"Sopwell House, Saint Albans,  UK",5:30 PM,IT & Technology
+,WEDC International Conference,07 - 10 Sep 2020,null,1:30 PM,Environment & Waste
+,Newent Onion Fayre,null,null,10:00 AM,Agriculture & Forestry
+,Connected Automated Mobility Event,09 - 10 Sep 2020,null,11:30 AM,Auto & Automotive
+,Provincial Booksellers Fairs,null,null,8:00 AM,Education & Training
+,SIBEC UK,02 - 03 Sep 2020,null,8:30 AM,Business Services
+,UK CDO Network,07 - 08 Sep 2020,"The Oxford Belfry, Milton Common,  UK",9:00 AM,IT & Technology
+,Rare Plant Fair Adwell House,null,null,10:30 AM,Agriculture & Forestry
+,Midlands Business Network Expo Coventry,null,"Ricoh Arena, Coventry, UK",10:30 AM,Business Services
+,UK Light Rail Conference,08 - 09 Sep 2020,null,11:30 AM,Logistics & Transportation
+,Local Gov Strategy Forum,10 - 11 Sep 2020,null,11:00 AM,Business Services
+,Camper Calling,28 - 30 Aug 2020,null,12:00 AM,Food & Beverages
+,Tanks Trucks and Firepower Show,29 - 31 Aug 2020,null,9:00 AM,Auto & Automotive
+,Eccleshall Show,null,"Sugnall Hall, Sugnall,  UK",10:30 AM,Arts & Crafts
+,Alternative Accountancy Strategic IT Conference,24 - 25 Aug 2020,null,8:00 AM,IT & Technology
+,Record Fair Wolverhampton,null,"Wolverhampton Slade Rooms, Wolverhampton,  UK",8:30 AM,Electric & Electronics
+,Rail Live,09 - 10 Sep 2020,null,9:00 AM,Logistics & Transportation
+,24housing Young Leaders Experience Conference,08 - 09 Sep 2020,null,10:30 AM,Education & Training
+,Nantwich Town Square Antiques Market,null,null,10:30 AM,Arts & Crafts
+,Amp Fair,null,null,11:30 AM,Arts & Crafts
+,Exhibition of Technical Analysis and Stock Market Forecast,null,"UIC-P, Paris, France",11:00 AM,Business Services
+,Euro Nursing Conference,01 - 02 Sep 2020,null,12:00 AM,Medical & Pharma
+,ARCHITECT@WORK Paris,24 - 25 Sep 2020,"Paris Event Center, Paris, France",10:30 AM,Building & Construction
+,World Hydrogen Congress,22 - 23 Sep 2020,"Le Meridien Etoile, Paris, France",4:00 PM,Environment & Waste
+,Euro Materials Science Congress,01 - 02 Sep 2020,null,5:30 PM,Science & Research
+,Paris Mineral Show,04 - 06 Dec 2020,"Espace Charenton, Paris, France",1:30 PM,Arts & Crafts
+,Bijorhca Paris,04 - 07 Sep 2020,"Paris Expo Porte de Versailles, Paris, France",10:00 AM,Arts & Crafts
+,Topics in Emergency Medicine,31 Aug - 04 Sep 2020,"Hotel du Collectionneur, Paris, France",11:30 AM,Medical & Pharma
+,Premium Sourcing,02 - 03 Sep 2020,"Carrousel du Louvre, Paris, France",8:00 AM,Apparel & Clothing
+,Premiere Classe,02 - 04 Oct 2020,"Tuileries Garden, Paris, France",8:30 AM,Apparel & Clothing
+,Texworld Paris,01 - 04 Feb 2021,"Paris Le Bourget Exhibition Centre, Paris, France",9:00 AM,Apparel & Clothing
+,Health-It Expo,07 - 09 Oct 2020,"Paris Expo Porte de Versailles, Paris, France",10:30 AM,Medical & Pharma
+,Cosmetic 360,14 - 15 Oct 2020,"Carrousel du Louvre, Paris, France",10:30 AM,Fashion & Beauty
+,Cloud+Data Center,23 - 24 Sep 2020,"Paris Expo Porte de Versailles, Paris, France",11:30 AM,IT & Technology
+,MtoM & Connected Objects - Embedded,23 - 24 Sep 2020,"Paris Expo Porte de Versailles, Paris, France",11:00 AM,Education & Training
+,SIAL Paris,18 - 22 Oct 2020,"Parc des expositions Paris Nord Villepinte, Paris, France",12:00 AM,Food & Beverages
+,Art Shopping,23 - 25 Oct 2020,"Carrousel du Louvre, Paris, France",8:00 AM,Arts & Crafts
+,SIMA,08 - 12 Nov 2020,"Parc des expositions Paris Nord Villepinte, Paris, France",8:30 AM,Agriculture & Forestry
+,Paris Retail Week,15 - 17 Sep 2020,null,9:00 AM,Industrial Engineering
+,Premiere Vision-Paris,15 - 16 Sep 2020,"Parc des expositions Paris Nord Villepinte, Paris, France",10:30 AM,Apparel & Clothing
+,MIPIM Proptech Europe,14 - 15 Sep 2020,null,10:30 AM,Building & Construction
+,SILMO Paris,02 - 05 Oct 2020,"Parc des expositions Paris Nord Villepinte, Paris, France",11:30 AM,Fashion & Beauty
+,GRI Europe Summit,07 - 08 Sep 2020,"InterContinental Paris - Le Grand, Paris, France",11:00 AM,Business Services
+,CRECENDO Expo,19 - 21 Sep 2020,null,12:00 AM,Fashion & Beauty
+,Made In France,01 - 02 Sep 2020,"Carreau du Temple, Paris, France",9:00 AM,Apparel & Clothing
+,Euro Infectious Diseases Congress,26 - 27 Oct 2020,null,10:30 AM,Medical & Pharma
+,"European Lasers, Photonics and Optics Technologies Summit",24 - 25 Sep 2020,"Campanile Roissy-En-France Hotel, Paris, France",8:00 AM,Electric & Electronics
+,International Congress of Aesthetics & Spa,03 - 05 Oct 2020,null,8:30 AM,Fashion & Beauty
+,International Conference on Food Technology & Nutrition,14 - 16 Sep 2020,null,9:00 AM,Food & Beverages
+,European Pharma Congress,23 - 24 Oct 2020,null,10:30 AM,Medical & Pharma
+,Franchise Expo Paris,04 - 07 Oct 2020,"Paris Expo Porte de Versailles, Paris, France",10:30 AM,Business Services
+,French Software Testing Day,null,null,11:30 AM,IT & Technology
+,Africa Assembly Conference,22 - 23 Sep 2020,"InterContinental Paris - Le Grand, Paris, France",11:00 AM,Power & Energy
+,Agriculture and Food Summit,24 - 25 Sep 2020,"Paris, France",12:00 AM,Agriculture & Forestry
+,IFTM Top Resa,17 - 20 Nov 2020,"Paris Expo Porte de Versailles, Paris, France",10:30 AM,Travel & Tourism
+,Private Wealth Europe Forum,null,null,4:00 PM,Education & Training
+,International Human Resource Management Conference,28 - 30 Oct 2020,"ESCP Europe Paris Campus, Paris, France",5:30 PM,Education & Training
+,MCB Creations And Trends Show,12 - 14 Sep 2020,"Paris Expo Porte de Versailles, Paris, France",1:30 PM,Fashion & Beauty
+,International Conference on Nursing & Healthcare,22 - 24 Sep 2020,null,10:00 AM,Medical & Pharma
+,Global Conference on Agriculture and  Horticulture,10 - 12 Sep 2020,"Hotel Restaurant Campanile Roissy, Paris, France",11:30 AM,Agriculture & Forestry
+,Technical Days of the Cereal Industries,04 - 05 Nov 2020,null,8:00 AM,IT & Technology
+,Fair Mans,12 - 16 Sep 2020,"Centre des Expositions du Mans, Le Mans,  France",8:30 AM,Business Services
+,Habitat Deco,09 - 11 Oct 2020,null,5:30 PM,Home & Office
+,Salon Maison de Chatellerault,11 - 13 Sep 2020,null,1:30 PM,Arts & Crafts
+,Salon Real Estate and New Home of the Sarthe,06 - 08 Nov 2020,null,null,Building & Construction
+,Studyrama Salon of Higher Studies of Tours,null,"Vinci - international Congress Center,                         Tours, France",11:30 AM,Education & Training
+,Automotive NVH Comfort,14 - 15 Oct 2020,null,8:00 AM,Auto & Automotive
+,Fair of Tours,10 - 18 Oct 2020,null,null,Arts & Crafts
+,Wedding Fair and Festival Days Mans,21 - 22 Nov 2020,null,9:00 AM,Apparel & Clothing
+,Fair Hours Le Mans,12 - 13 Jun 2021,null,10:30 AM,Auto & Automotive
+,Salon Habitat Saumur,19 - 21 Mar 2021,null,4:00 PM,Building & Construction
+,France Ce Zoo de Beauval,null,null,5:30 PM,Travel & Tourism
+,ISOE International Symposium,20 - 22 Oct 2020,null,1:30 PM,Science & Research
+,Salon des Vins et de la Gastronomie - Le Mans,27 - 29 Nov 2020,null,null,Food & Beverages
+,NOVAFLEUR,04 - 05 Oct 2020,null,11:30 AM,Arts & Crafts
+,Le Mans Classic Show,01 - 04 Jul 2021,null,8:00 AM,Auto & Automotive
+,Les Salons du Mariage,21 - 22 Nov 2020,null,null,Apparel & Clothing
+,Mer et Vigne Gastronomic Fair,11 - 14 Dec 2020,null,9:00 AM,Food & Beverages
+,Salon du Mariage et Jours de Fete Le Mans,21 - 22 Nov 2020,null,10:30 AM,Apparel & Clothing
+,Ferme Expo,13 - 15 Nov 2020,null,10:30 AM,Agriculture & Forestry
+,International Congress NVH Comfort,14 - 15 Oct 2020,null,null,Auto & Automotive
+,Beauty Expo Australia,03 - 04 Oct 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",null,Fashion & Beauty
+,Sydney Contemporary,10 - 13 Sep 2020,"Carriageworks, Sydney, Australia",5:30 AM,Arts & Crafts
+,Sydney ANDA Money Expo,24 - 25 Oct 2020,"Sydney Town Hall, Sydney, Australia",11:30 AM,Arts & Crafts
+,EduTECH International Congress & Expo,09 - 10 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",11:00 AM,Education & Training
+,International Dementia Conference,21 - 22 Sep 2020,"Sydney, Australia",12:00 AM,Medical & Pharma
+,World Congress of Veterinary Dermatology,20 - 24 Oct 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",10:30 AM,Medical & Pharma
+,"International Conference on Medical, Medicine and Health Sciences",12 - 13 Sep 2020,"Holiday Inn Potts Point-Sydney, Sydney, Australia",4:00 PM,Medical & Pharma
+,Happiness & Its Causes,19 - 20 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",5:30 PM,Business Services
+,Future of Banking: Live,null,null,1:30 PM,Banking & Finance
+,FinTech Summit,null,"Ashurst, Sydney, Australia",10:00 AM,Banking & Finance
+,AI Summit NSW,null,null,11:30 AM,IT & Technology
+,"Gartner Application Architecture, Development & Integration Summit",24 - 25 Aug 2020,"Hilton Sydney, Sydney, Australia",8:00 AM,Business Services
+,Smart Energy Conference & Exhibition,09 - 10 Sep 2020,null,8:30 AM,Environment & Waste
+,General Practice Conference & Exhibition Sydney,16 - 18 Oct 2020,"Sydney Showground, Sydney, Australia",9:00 AM,Medical & Pharma
+,International Conference on Cannabis and Medicinal Research,21 - 22 Sep 2020,"Sydney, Australia",10:30 AM,Science & Research
+,Online Retailer Conference & Expo,19 - 20 Oct 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",10:30 AM,Business Services
+,Franchising & Business Opportunities Expo - Sydney,13 - 14 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",11:30 AM,Business Services
+,Foodservice Australia,08 - 10 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",11:00 AM,Food & Beverages
+,Medicines: Improve Your Knowledge Seminar,03 - 04 Sep 2020,"Rydges Sydney Central, Sydney, Australia",12:00 AM,Medical & Pharma
+,Advanced Manufacturing Expo,18 - 20 Nov 2020,"Sydney Showground, Sydney, Australia",10:30 AM,Industrial Engineering
+,The Future of Security in Financial Services,05 - 06 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",4:00 PM,Banking & Finance
+,World Congress on Breast Cancer and Women Health,14 - 16 Sep 2020,null,5:30 PM,Medical & Pharma
+,Retail Leaders Forum,22 - 23 Sep 2020,null,1:30 PM,Apparel & Clothing
+,International Jewellery & Watch Fair,10 - 12 Oct 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",10:00 AM,Fashion & Beauty
+,World Business Forum Sydney,10 - 11 Nov 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",11:30 AM,Business Services
+,Sydney's Annual Wedding Expo,null,"Sydney Showground, Sydney, Australia",8:00 AM,Apparel & Clothing
+,"International Conference on Tourism, Transport, and Logistics",24 - 25 Aug 2020,"Castlereagh Boutique Hotel, Sydney, Australia",8:30 AM,Travel & Tourism
+,Gabs Fest Sydney,null,"Sydney Showground, Sydney, Australia",9:00 AM,Food & Beverages
+,Good Food & Wine Show - Sydney,09 - 11 Oct 2020,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",10:30 AM,Food & Beverages
+,Healthcare Leaders Forum,21 - 22 Oct 2020,null,10:30 AM,Medical & Pharma
+,Snow Travel Expo Sydney,null,"International Convention Centre Sydney (ICC Sydney), Sydney, Australia",11:30 AM,Travel & Tourism
+,Advertising Week APAC,24 - 27 Aug 2020,"Sydney, Australia",11:00 AM,Education & Training
+,The Sydney Home Show,16 - 18 Oct 2020,"Sydney Showground, Sydney, Australia",12:00 AM,Home & Office
+,International Congress on Irrigation and Drainage,22 - 28 Sep 2020,null,10:30 AM,Agriculture & Forestry
+,Risk and Performance Summit,null,null,4:00 PM,Banking & Finance
+,Mental Health in Education Summit,25 - 27 Aug 2020,null,5:30 PM,Education & Training
+,Free From Show Sydney,11 - 13 Sep 2020,"Sydney Showground, Sydney, Australia",1:30 PM,"Wellness, Health & Fitness"
+,International Conference on Coastal Engineering,13 - 18 Sep 2020,null,10:00 AM,Education & Training
+,121 Mining Investment Sydney,27 - 28 Aug 2020,null,11:30 AM,Banking & Finance
+,Corporate Affairs Summit,25 - 26 Aug 2020,null,8:00 AM,Business Services
+,DENFAIR Melbourne,01 - 03 Dec 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",8:30 AM,Home & Office
+,Mental Health: Understanding Personality Disorders Seminar,14 - 15 Sep 2020,"Oaks on Market, Melbourne, Australia",9:00 AM,Medical & Pharma
+,Timber Tools & Artisan Show,16 - 18 Oct 2020,"Melbourne Showgrounds, Melbourne, Australia",10:30 AM,Agriculture & Forestry
+,One Fine Baby,12 - 13 Sep 2020,"Royal Exhibition Building, Melbourne, Australia",10:30 AM,"Baby, Kids & Maternity"
+,International Sourcing Expo Australia,24 - 26 Nov 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",11:30 AM,Apparel & Clothing
+,Melbourne International Coffee Expo,03 - 06 Nov 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",11:00 AM,Food & Beverages
+,National Dementia Conference,15 - 16 Oct 2020,null,12:00 AM,Medical & Pharma
+,Fitness Show Melbourne,24 - 25 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",10:30 AM,"Wellness, Health & Fitness"
+,Open Banking Summit,null,"ZINC Federation Square, Melbourne, Australia",4:00 PM,Banking & Finance
+,Australasian Road Safety Conference,16 - 18 Sep 2020,null,5:30 PM,Logistics & Transportation
+,Design Build,27 - 29 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",1:30 PM,Building & Construction
+,ATSA Independent Living Expo,13 - 14 Oct 2020,null,10:00 AM,"Wellness, Health & Fitness"
+,Reed Gift Fairs - Melbourne,09 - 12 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",11:30 AM,Business Services
+,Australian Brewers Conference and Trade Expo,21 - 22 Sep 2020,null,8:00 AM,Food & Beverages
+,Australian Nurses and Midwives Conference,10 - 11 Sep 2020,null,8:30 AM,Medical & Pharma
+,National Education Summit,28 - 29 Aug 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",9:00 AM,Education & Training
+,International Conference on Urban Drainage,06 - 11 Sep 2020,null,10:30 AM,Environment & Waste
+,Chief Data & Analytics Officer,null,null,10:30 AM,Business Services
+,Emergency Management Conference,06 - 07 Oct 2020,"Pullman Melbourne Albert Park, Melbourne, Australia",11:30 AM,Security & Defense
+,Gluten Free Expo & Conference,03 - 04 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",11:00 AM,Business Services
+,"Australasian Conference for Neuroscience, Learning and Wellbeing",09 - 10 Nov 2020,"Catholic Leadership Centre, Melbourne, Australia",12:00 AM,"Wellness, Health & Fitness"
+,All-Energy Australia,21 - 22 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",10:30 AM,Power & Energy
+,China Clothing Textile Accessories Expo,24 - 26 Nov 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",4:00 PM,Apparel & Clothing
+,Royal Melbourne Show,19 - 29 Sep 2020,"Melbourne Showgrounds, Melbourne, Australia",5:30 PM,Agriculture & Forestry
+,B2B Expo Melbourne,21 - 23 Oct 2020,"Etihad Stadium, Melbourne, Australia",1:30 PM,Business Services
+,ASCIA Conference,02 - 04 Sep 2020,null,10:00 AM,Business Services
+,Woodtech,25 - 26 Aug 2020,"Bayview Eden Melbourne, Melbourne, Australia",11:30 AM,Home & Office
+,Business of Sport Summit,01 - 02 Sep 2020,null,8:00 AM,Business Services
+,IFOMPT Conference,06 - 08 Oct 2020,null,8:30 AM,Business Services
+,Worldcosmedic Medical Beauty Expo in Melbourne,10 - 11 Oct 2020,null,10:30 AM,Medical & Pharma
+,Leading The Product Conference,null,null,10:30 AM,Business Services
+,Melbourne Market,16 - 18 Oct 2020,"Royal Exhibition Building, Melbourne, Australia",11:30 AM,Apparel & Clothing
+,Snow Travel Expo Melbourne,null,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",11:00 AM,Travel & Tourism
+,Dog Lovers Show Melbourne,27 - 29 Nov 2020,null,12:00 AM,Animals & Pets
+,Madman Anime Festival,29 - 30 Aug 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",10:30 AM,Entertainment & Media
+,Anime Manga Game Expo,07 - 08 Nov 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",4:00 PM,"Baby, Kids & Maternity"
+,VIC Transport Infrastructure Conference,19 - 20 Oct 2020,null,5:30 PM,Logistics & Transportation
+,International Mining and Resources Conference & Exhibition,27 - 29 Oct 2020,"Melbourne Convention and Exhibition Centre, Melbourne, Australia",1:30 PM,Power & Energy
+,Corporate Health & Wellbeing Summit,null,null,10:00 AM,Business Services
+,National Community Engagement for Infrastructure Forum,27 - 28 Aug 2020,null,11:30 AM,Building & Construction
+,General Practice Conference & Exhibition Brisbane,13 - 15 Nov 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",8:00 AM,Medical & Pharma
+,Brisbane Trade Day,null,"Brisbane Showgrounds, Brisbane, Australia",8:30 AM,Agriculture & Forestry
+,Energy Networks Conference and Exhibition,14 - 16 Oct 2020,null,9:00 AM,Power & Energy
+,FST Government Queensland,null,null,10:30 AM,IT & Technology
+,Annual Scientific Congress of The Royal Australian and New Zealand College of Ophthalmologists,09 - 13 Oct 2020,null,10:30 AM,Medical & Pharma
+,Eco Expo,11 - 13 Sep 2020,null,11:30 AM,Agriculture & Forestry
+,Women and Leadership Symposium Brisbane,null,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",11:00 AM,Education & Training
+,Good Food & Wine Show-Brisbane,23 - 25 Oct 2020,"Brisbane, Australia",12:00 AM,Food & Beverages
+,Care Expo,11 - 12 Sep 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",10:30 AM,Medical & Pharma
+,Australian Brewers Conference and Trade Expo,21 - 22 Sep 2020,null,4:00 PM,Food & Beverages
+,The Wedding & Honeymoon Show,30 Oct - 01 Nov 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",5:30 PM,Apparel & Clothing
+,AusIMM Mill Operators Conference,09 - 11 Sep 2020,null,1:30 PM,Business Services
+,Positive Schools Mental Health and Wellbeing Conference,26 - 28 Oct 2020,null,10:00 AM,Education & Training
+,Craft & Quilt Fair-Brisbane,14 - 18 Oct 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",11:30 AM,Apparel & Clothing
+,Australian Property Expo,10 - 11 Oct 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",8:00 AM,Building & Construction
+,World of Drones & Robotics Congress,17 - 18 Sep 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",8:30 AM,Industrial Engineering
+,Workplace Mental Health Symposium,04 - 05 Nov 2020,null,9:00 AM,"Wellness, Health & Fitness"
+,International Suicide Prevention Conference,21 - 23 Oct 2020,null,10:30 AM,Education & Training
+,National Indigenous NDIS: Doing It the First People's Way Conference,19 - 21 Oct 2020,null,10:30 AM,Education & Training
+,"International Conference on Stillbirth, Neonatal Death and Sudden Unexpected Death in Infancy",22 - 24 Oct 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",11:30 AM,Medical & Pharma
+,Oz Comic-Con Brisbane,19 - 20 Sep 2020,null,11:00 AM,Entertainment & Media
+,Land Forces,01 - 03 Sep 2020,null,12:00 AM,Security & Defense
+,APGA Annual Convention andExhibition,17 - 20 Oct 2020,null,10:30 AM,Logistics & Transportation
+,Asia Pacific League of Associations for Rheumatology Congress,31 Aug - 03 Sep 2020,null,4:00 PM,Medical & Pharma
+,Autocare Convention,30 - 31 Oct 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",5:30 PM,Auto & Automotive
+,International Conference on Ayurveda Traditional Medicine and Medicinal Plants,28 - 29 Aug 2020,"Brisbane, Australia",1:30 PM,Medical & Pharma
+,Pollen World Beekeepers Conference,01 - 02 Sep 2020,null,10:00 AM,Education & Training
+,Brisbane Caravan & Outdoor Expo,29 Oct - 01 Nov 2020,"Brisbane Showgrounds, Brisbane, Australia",11:30 AM,Auto & Automotive
+,Australasian Diabetes Congress,26 - 28 Aug 2020,null,8:00 AM,Medical & Pharma
+,"Brisbane Timber, Tools & Artisan Show",27 - 28 Nov 2020,"Brisbane Showgrounds, Brisbane, Australia",11:30 AM,Industrial Engineering
+,Brisbane Market,06 - 08 Nov 2020,null,8:00 AM,Arts & Crafts
+,National Conference on Incontinence,18 - 21 Nov 2020,null,8:30 AM,Medical & Pharma
+,Trauma Nursing Conference,09 - 10 Nov 2020,"Mercure Brisbane, Brisbane, Australia",9:00 AM,Medical & Pharma
+,Brisbane Careers & Employment Expo,09 - 10 Oct 2020,"Brisbane Convention & Exhibition Centre, Brisbane, Australia",10:30 AM,Education & Training
+,Brisbane Food & Wine Expo,02 - 04 Oct 2020,"Brisbane Showgrounds, Brisbane, Australia",10:30 AM,Food & Beverages
+,OHS Leaders Summit,20 - 21 Oct 2020,null,11:30 AM,Business Services
+,Night Duty Nursing Conference,07 - 08 Sep 2020,null,11:00 AM,Science & Research
+,ACEL Disability & Inclusion Conference,07 - 08 Oct 2020,null,12:00 AM,Education & Training
+,Queensland Horticulture Export Conference,08 - 09 Sep 2020,null,10:30 AM,Agriculture & Forestry
+,Enrolled Nurses Conference Perth,14 - 15 Sep 2020,null,4:00 PM,Medical & Pharma
+,HR Law Masterclass Australia,23 - 24 Sep 2020,null,5:30 PM,Education & Training
+,Revelation Academic Conference,24 - 27 Sep 2020,"Urban Orchard, Perth, Australia",1:30 PM,Education & Training
+,Western Australia Conference,null,null,10:00 AM,Education & Training
+,Oceania CACS,31 Aug - 01 Sep 2020,null,11:30 AM,Business Services
+,World Conference on Clinical and Medical Case Reports,12 - 13 Oct 2020,null,8:00 AM,Medical & Pharma
+,FST Government Western Australia,null,null,8:30 AM,IT & Technology
+,Perth Stamp & Coin Show,18 - 20 Sep 2020,"South Perth Community Centre, Perth, Australia",9:00 AM,Arts & Crafts
+,Perth Upmarket,null,"The University of Western Australia, Perth, Australia",10:30 AM,Arts & Crafts
+,International Conferences on Medical and Health Science,08 - 09 Oct 2020,null,10:30 AM,Medical & Pharma
+,Australian Tattoo Expo - PERTH,11 - 13 Sep 2020,"Perth Convention and Exhibition Centre, Perth, Australia",11:30 AM,Miscellaneous
+,ISO 27001 Lead Auditor Training in Perth Australia,null,"Perth, Australia",11:00 AM,Education & Training
+,WA IT Leadership Summit,22 - 23 Sep 2020,"The Westin Perth, Perth, Australia",12:00 AM,Business Services
+,The Africa Oil Gas and Energy Australia Conference,31 Aug - 01 Sep 2020,"Perth, Australia",10:30 AM,Power & Energy
+,Leading Oil & Gas Investment Conference in Australasia,09 - 10 Sep 2020,"Hyatt Regency Perth, Perth, Australia",4:00 PM,Power & Energy
+,Examinations Network Conference,25 - 28 Aug 2020,null,11:00 AM,Education & Training
+,Good Oil Conference,09 - 10 Sep 2020,"Hyatt Regency Perth, Perth, Australia",12:00 AM,Power & Energy
+,High Voltage WA Conference,16 - 17 Sep 2020,null,10:30 AM,Electric & Electronics
+,Perth International Boat Show,18 - 20 Sep 2020,"Perth Convention and Exhibition Centre, Perth, Australia",4:00 PM,Auto & Automotive
+,IICA Technology Engineering Expo Perth,null,"Perth Convention and Exhibition Centre, Perth, Australia",5:30 PM,IT & Technology
+,International Pharmaceutical Conference and Expo,21 - 22 Sep 2020,null,1:30 PM,Medical & Pharma
+,English Australia,16 - 18 Sep 2020,"Perth Convention and Exhibition Centre, Perth, Australia",10:00 AM,Education & Training
+,Australian Early Medieval Association Conference,03 - 04 Oct 2020,null,11:30 AM,Education & Training
+,YOW Perth,null,null,8:00 AM,Education & Training
+,Introduction to the Oil & Gas Industry Seminars,null,"Perth, Australia",8:30 AM,Power & Energy
+,International Symposium on Staphylococci and Staphylococcal Infections,23 - 26 Aug 2020,null,9:00 AM,Medical & Pharma
+,SUT & SPE Annual Golf Day,null,null,10:30 AM,Power & Energy
+,Supanova Comic Con & Gaming,26 - 27 Sep 2020,"Perth Convention and Exhibition Centre, Perth, Australia",10:30 AM,Entertainment & Media
+,ISO 27001 Lead Implementer Training in Perth Australia,null,null,11:30 AM,Education & Training
+,Energy in Western Australia Conference,23 - 24 Sep 2020,null,11:00 AM,Power & Energy
+,"International Conference on Renewable, Environment and Agriculture (ICREA)",null,null,12:00 AM,Agriculture & Forestry
+,Minesafe International Conference,21 - 22 Sep 2020,"Crown Perth, Perth, Australia",10:30 AM,Education & Training
+,Madman Anime Festival Perth,03 - 04 Oct 2020,null,4:00 PM,Entertainment & Media
+,Australasian Research Management Society Annual Conference,22 - 25 Sep 2020,null,5:30 PM,Science & Research
+,Perth Royal Show,26 Sep - 03 Oct 2020,"IGA Perth Royal Show, Perth, Australia",1:30 PM,Agriculture & Forestry
+,ASILE Conference,30 Sep - 02 Oct 2020,null,10:00 AM,Education & Training
+,Mental Health Understanding Personality Disorders Seminar,31 Aug - 01 Sep 2020,null,11:30 AM,Medical & Pharma
+,The Mental Health Services Conference,25 - 28 Aug 2020,null,8:00 AM,"Wellness, Health & Fitness"
+,Contract Law Fundamentals Australia,null,"Perth, Australia",11:30 AM,Education & Training
+,Australian Nickel Conference,null,null,8:00 AM,Building & Construction
+,Global Nursing Care Congress,16 - 17 Sep 2020,"Tokyo, Japan",8:30 AM,Medical & Pharma
+,Tokyo International Gift Show-Autumn,07 - 09 Oct 2020,"Tokyo Big Sight, Koto, Japan",9:00 AM,Arts & Crafts
+,Asian Conference on Plant Pathology,15 - 18 Sep 2020,"Tsukuba International Conference Center, Tsukuba,  Japan",10:30 AM,Agriculture & Forestry
+,Highly-Functional Plastic Expo Tokyo,07 - 09 Oct 2020,"Tokyo, Japan",10:30 AM,Industrial Engineering
+,Electric Vehicle & Plug-in Hybrid Vehicle Exhibition,07 - 09 Oct 2020,"Tokyo Big Sight, Koto, Japan",11:30 AM,Auto & Automotive
+,Capital Link Japan Maritime Forum,null,null,11:00 AM,Logistics & Transportation
+,Denimsandjeans Japan Show,29 - 30 Sep 2020,"Sunshine City Alpa, Tokyo, Japan",12:00 AM,Apparel & Clothing
+,Fashion World Tokyo,27 - 29 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Apparel & Clothing
+,Gartner Security & Risk Management Summit,31 Aug - 02 Sep 2020,"InterContinental - ANA Tokyo, Tokyo, Japan",4:00 PM,Education & Training
+,Artificial Intelligence Exhibition & Conference,28 - 30 Oct 2020,"Tokyo Big Sight, Koto, Japan",5:30 PM,Industrial Engineering
+,Smart Maritime Network Tokyo Conference,null,null,1:30 PM,Logistics & Transportation
+,Automotive Linux Summit,15 - 16 Sep 2020,null,10:00 AM,Auto & Automotive
+,International Conference on Very Large Data Bases,31 Aug - 04 Sep 2020,null,11:30 AM,IT & Technology
+,International Stationary & Office Products Fair Tokyo,02 - 04 Sep 2020,"Tokyo Big Sight, Koto, Japan",8:00 AM,Home & Office
+,Sign & Display Show,01 - 02 Oct 2020,"Tokyo Big Sight, Koto, Japan",8:30 AM,Packing & Packaging
+,International Conference on Public Healthcare and Epidemiology,14 - 15 Sep 2020,"Hotel Mystays Ochanomizu, Tokyo, Japan",9:00 AM,Medical & Pharma
+,Worlds Leading Wines Tokyo,null,null,10:30 AM,Business Services
+,HOSPEX Japan,11 - 13 Nov 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Medical & Pharma
+,International Conference on Civil and Architectural Engineering,26 - 27 Aug 2020,"Kadoya Hotel, Tokyo, Japan",11:30 AM,Building & Construction
+,SCAJ World Specialty Coffee Conference And Exhibition,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",11:00 AM,Industrial Engineering
+,"International Conference on  Wound Care, Tissue Repair and Regenerative Medicine",14 - 15 Sep 2020,null,12:00 AM,Medical & Pharma
+,Health Ingredients Japan,16 - 18 Nov 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Food & Beverages
+,Japan Jewellery Fair,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",11:00 AM,Apparel & Clothing
+,Multimedia & Mail Order Food Trade Show,02 - 03 Sep 2020,null,12:00 AM,Food & Beverages
+,The Talks on Oncology and Chemotherapy,27 - 28 Aug 2020,null,10:30 AM,Medical & Pharma
+,Open Source Summit Japan,15 - 16 Sep 2020,null,4:00 PM,IT & Technology
+,DIET & BEAUTY FAIR,15 - 17 Sep 2020,"Tokyo Big Sight, Koto, Japan",5:30 PM,Fashion & Beauty
+,World Convention on Waste Recycling and Reuse,16 - 17 Sep 2020,null,1:30 PM,Environment & Waste
+,TEAMZ Blockchain Summit,null,null,10:00 AM,IT & Technology
+,World Congress on Artificial Intelligence and Robots,22 - 23 Oct 2020,"Tokyo, Japan",11:30 AM,Industrial Engineering
+,International Conference on Coastal Ecosystem and Management,24 - 25 Aug 2020,"Tokyo, Japan",8:00 AM,Science & Research
+,WorkTech Tokyo,null,"Toranomon Hills, Tokyo, Japan",8:30 AM,Education & Training
+,Rooms Experience,03 - 05 Sep 2020,"Shinjuku Sumitomo Building, Tokyo, Japan",9:00 AM,Apparel & Clothing
+,Halal Market Fair,15 - 17 Sep 2020,"Tokyo Metropolitan Industrial Trade Center Hamamatsuchō, Tokyo, Japan",10:30 AM,Food & Beverages
+,International Conference On Environment And Natural Science,26 - 27 Aug 2020,null,10:30 AM,Science & Research
+,International Conference on Pharmacy and Pharmaceutical Science,15 - 18 Sep 2020,"Meiji University, Tokyo, Japan",11:30 AM,Medical & Pharma
+,PROJECT TOKYO,17 - 18 Sep 2020,"Hikarie Hall, Tokyo, Japan",11:00 AM,Apparel & Clothing
+,World Aquaculture and Fisheries Conference,26 - 27 Oct 2020,"Tokyo, Japan",12:00 AM,Agriculture & Forestry
+,Home Care & Rehabilitation Exhibition,21 - 23 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,"Wellness, Health & Fitness"
+,AVCJ Private Equity & Venture Forum Japan,08 - 09 Sep 2020,"Conrad Tokyo, Tokyo, Japan",4:00 PM,Business Services
+,Japan Solar + Energy Storage Congress,28 - 29 Oct 2020,null,5:30 PM,Power & Energy
+,Logis-Tech Tokyo,26 - 29 Jan 2021,"Tokyo Big Sight, Koto, Japan",1:30 PM,Logistics & Transportation
+,HOSPEX Japan,11 - 13 Nov 2020,"Tokyo Big Sight, Koto, Japan",10:00 AM,Medical & Pharma
+,Organic & Natural Products Show,24 - 26 Feb 2021,"Tokyo Big Sight, Koto, Japan",11:30 AM,Food & Beverages
+,DIET & BEAUTY FAIR,15 - 17 Sep 2020,"Tokyo Big Sight, Koto, Japan",8:00 AM,Fashion & Beauty
+,JAPANTEX,11 - 13 Nov 2020,"Tokyo Big Sight, Koto, Japan",11:30 AM,Apparel & Clothing
+,Electronic Components and Materials Expo,20 - 22 Jan 2021,"Tokyo Big Sight, Koto, Japan",8:00 AM,Electric & Electronics
+,Open Source Summit Japan,15 - 16 Sep 2020,null,8:30 AM,IT & Technology
+,Tokyo Int'l Funeral & Cemetery Show,18 - 20 Nov 2020,null,9:00 AM,Education & Training
+,Japan Build,02 - 04 Dec 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Building & Construction
+,Risk Control Tokyo,21 - 23 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,IT & Technology
+,Interpets Asia Pacific,01 - 04 Apr 2021,"Tokyo Big Sight, Koto, Japan",11:30 AM,Animals & Pets
+,Japan International Machine Tool Fair,07 - 12 Dec 2020,"Tokyo Big Sight, Koto, Japan",11:00 AM,Industrial Engineering
+,Pan Exhibition for Wash and Clean,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",12:00 AM,Industrial Engineering
+,Home Care & Rehabilitation Exhibition,21 - 23 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,"Wellness, Health & Fitness"
+,International Jewellery Tokyo,13 - 16 Jan 2021,"Tokyo Big Sight, Koto, Japan",4:00 PM,Arts & Crafts
+,Fashion World Tokyo,27 - 29 Oct 2020,"Tokyo Big Sight, Koto, Japan",5:30 PM,Apparel & Clothing
+,SPORTEC x HEALTH & FITNESS JAPAN,02 - 04 Dec 2020,"Tokyo Big Sight, Koto, Japan",1:30 PM,"Wellness, Health & Fitness"
+,Powtex Tokyo,18 - 20 Nov 2020,null,10:00 AM,Industrial Engineering
+,Special Equipment Exhibition & Conference for Anti-Terrorism,21 - 23 Oct 2020,null,11:30 AM,Education & Training
+,COSME TOKYO,13 - 15 Jan 2021,"Tokyo Big Sight, Koto, Japan",8:00 AM,Fashion & Beauty
+,Tokyo International Gift Show-Autumn,07 - 09 Oct 2020,"Tokyo Big Sight, Koto, Japan",8:30 AM,Arts & Crafts
+,Japan Jewellery Fair,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",9:00 AM,Apparel & Clothing
+,FinTech & Blockchain,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Banking & Finance
+,Health Ingredients Japan,16 - 18 Nov 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Food & Beverages
+,Eating Out Business Week,24 - 25 Sep 2020,null,11:30 AM,Food & Beverages
+,Tokyo Pack,24 - 26 Feb 2021,"Tokyo Big Sight, Koto, Japan",11:00 AM,Packing & Packaging
+,Artificial Intelligence Exhibition & Conference,28 - 30 Oct 2020,"Tokyo Big Sight, Koto, Japan",12:00 AM,Industrial Engineering
+,SCAJ World Specialty Coffee Conference And Exhibition,14 - 16 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Industrial Engineering
+,Sign & Display Show,01 - 02 Oct 2020,"Tokyo Big Sight, Koto, Japan",8:30 AM,Packing & Packaging
+,Food Distribution,07 - 09 Oct 2020,"Tokyo Big Sight, Koto, Japan",9:00 AM,Food & Beverages
+,Agrifood EXPO Tokyo,05 - 06 Nov 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Agriculture & Forestry
+,Electric Vehicle & Plug-in Hybrid Vehicle Exhibition,07 - 09 Oct 2020,"Tokyo Big Sight, Koto, Japan",10:30 AM,Auto & Automotive
+,International Stationary & Office Products Fair Tokyo,02 - 04 Sep 2020,"Tokyo Big Sight, Koto, Japan",11:30 AM,Home & Office
+,Sportec for Leisure & Games,25 - 27 Nov 2020,null,11:00 AM,"Wellness, Health & Fitness"
+,LED Japan,09 - 11 Dec 2020,null,12:00 AM,IT & Technology
+,Wine and Gourmet Japan,14 - 16 Apr 2021,"Tokyo Big Sight, Koto, Japan",10:30 AM,Food & Beverages
+,National Food Specialty Expo,24 - 25 Sep 2020,null,4:00 PM,Food & Beverages
+,Tokyo International Endoscope Live Seminar,20 - 22 Nov 2020,null,5:30 PM,Medical & Pharma
+,International Conference On Environment And Natural Science,26 - 27 Aug 2020,null,1:30 PM,Science & Research
+,Ceatec Japan,20 - 23 Oct 2020,"Makuhari Messe, Chiba, Japan",10:00 AM,IT & Technology
+,QUALICO,10 - 13 Sep 2020,null,11:30 AM,Education & Training
+,International Symposium on Advanced Vehicle Control,14 - 18 Sep 2020,null,8:00 AM,Auto & Automotive
+,International Conference on Water Resource and Environment,23 - 26 Aug 2020,null,11:30 AM,Environment & Waste
+,International Conference on Green Chemistry and Renewable Energy,28 - 29 Oct 2020,null,8:00 AM,Education & Training
+,Color and Imaging Conference,02 - 06 Nov 2020,"Makuhari Messe,                         Chiba, Japan",8:30 AM,IT & Technology
+,International Human Choice and Computers Conference,09 - 11 Sep 2020,"Chuo University, Hachioji,  Japan",9:00 AM,IT & Technology
+,PHP Conference Japan,null,"Ota City Industrial Plaza PiO reservation center, Ota,  Japan",10:30 AM,Business Services
+,FISD Tokyo,null,null,10:30 AM,Banking & Finance
+,Japan DIY Homecenter Show,05 - 07 Nov 2020,"Makuhari Messe, Chiba, Japan",11:30 AM,Home & Office
+,Web & Digital Marketing Expo,28 - 30 Oct 2020,"Makuhari Messe, Chiba,  Japan",11:00 AM,Business Services
+,International Conference on Agricultural and Biological Sciences,23 - 26 Aug 2020,"Tokyo University of Agriculture, Setagaya,  Japan",12:00 AM,Agriculture & Forestry
+,Tokyo Game Show,24 - 27 Sep 2020,null,10:30 AM,"Baby, Kids & Maternity"
+,"Annual Conference on Brain Disorders, Neurology and Therapeutics",14 - 15 Sep 2020,"ANA Crowne Plaza Narita, Narita,  Japan",4:00 PM,Medical & Pharma
+,SelectBio Flow Chemistry Asia,09 - 10 Nov 2020,null,5:30 PM,Science & Research
+,Cycle Mode International,06 - 08 Nov 2020,"Makuhari Event Hall, Chiba,  Japan",1:30 PM,Auto & Automotive
+,International 3R+3C Symposium,16 - 20 Nov 2020,null,10:00 AM,Science & Research
+,AGRITECH Tokyo,14 - 16 Oct 2020,"Makuhari Messe, Chiba, Japan",11:30 AM,Agriculture & Forestry
+,International Broadcast Equipment Exhibition,18 - 20 Nov 2020,"Makuhari Messe, Chiba, Japan",8:00 AM,IT & Technology
+,International Plastic Fair,06 - 10 Oct 2020,"Makuhari Messe, Chiba, Japan",8:30 AM,Industrial Engineering
+,BIOtech Japan,25 - 27 Nov 2020,"Makuhari Messe, Chiba, Japan",9:00 AM,Medical & Pharma
+,Education IT Solutions Expo,16 - 18 Sep 2020,"Makuhari Messe, Chiba,  Japan",10:30 AM,Education & Training
+,HR EXPO Tokyo,16 - 18 Sep 2020,"Makuhari Messe, Chiba, Japan",10:30 AM,Education & Training
+,International Conference on Dermatology and Cosmetology,26 - 27 Oct 2020,null,11:30 AM,Medical & Pharma
+,Digital Content Expo,18 - 20 Nov 2020,null,11:00 AM,IT & Technology
+,Japan IT Week Autumn,28 - 30 Oct 2020,"Makuhari Messe, Chiba, Japan",12:00 AM,IT & Technology
+,IADMS  Annual Conference,22 - 25 Oct 2020,null,4:00 PM,Medical & Pharma
+,EAI International Conference on Mobile Networks and Management,25 - 27 Aug 2020,"Chiba, Japan",5:30 PM,IT & Technology
+,East Meets West The Mayo Clinic International Sports Medicine Conference,04 - 06 Sep 2020,null,1:30 PM,Medical & Pharma
+,International Health Humanities Conference,23 - 26 Oct 2020,null,10:00 AM,Medical & Pharma
+,Asian Conference on Plant Pathology,15 - 18 Sep 2020,"Tsukuba International Conference Center, Tsukuba,  Japan",11:30 AM,Agriculture & Forestry
+,Printing for Fabrication,03 - 06 Nov 2020,"Makuhari Messe,                         Chiba, Japan",8:00 AM,Packing & Packaging
+,Tsukuba Forum,29 - 30 Oct 2020,null,8:30 AM,IT & Technology
+,International Conference on Language Teaching and Learning & Educational Materials Exhibition,20 - 23 Nov 2020,null,9:00 AM,Education & Training
+,International Conference on Applied Biochemistry and Biotechnology,23 - 26 Aug 2020,null,10:30 AM,Science & Research
+,International Conference on Nursing Care and Healthcare,26 - 28 Oct 2020,"Radisson Hotel Narita,                         Chiba, Japan",10:30 AM,Medical & Pharma
+,Japan Analytical & Scientific Instruments Show,11 - 13 Nov 2020,"Makuhari Messe, Chiba, Japan",8:30 AM,Industrial Engineering
+,"International Conference on Chemical, Agricultural, Biological and Environmental Sciences",05 - 06 Sep 2020,null,9:00 AM,Agriculture & Forestry
+,Exa Summit,null,null,10:30 AM,IT & Technology
+,Japan Drone,29 - 30 Sep 2020,"Makuhari Messe, Chiba, Japan",10:30 AM,Industrial Engineering
